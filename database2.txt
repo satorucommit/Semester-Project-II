@@ -1,0 +1,99 @@
+Data science combines statistics, data analysis, and machine learning.
+
+Python and R are the most popular languages in data science.
+
+Exploratory data analysis is crucial in understanding the dataset.
+
+Machine learning helps automate decision-making based on data.
+
+Data visualization is an essential skill for a data scientist.
+
+Data wrangling involves cleaning and transforming raw data.
+
+A confusion matrix helps evaluate classification models.
+
+The ROC curve shows the trade-off between sensitivity and specificity.
+
+Data normalization scales values to a similar range.
+
+Supervised learning uses labeled data to train models.
+
+Unsupervised learning identifies patterns in unlabeled data.
+
+Clustering groups similar data points together.
+
+Principal Component Analysis reduces data dimensionality.
+
+Overfitting occurs when a model learns the training data too well.
+
+Cross-validation helps in assessing model performance.
+
+Feature engineering can improve the accuracy of models.
+
+Linear regression predicts a continuous dependent variable.
+
+Logistic regression is used for binary classification.
+
+K-means is a popular clustering algorithm.
+
+Naive Bayes is based on Bayes' theorem.
+
+Decision trees are interpretable models for classification tasks.
+
+Random forests combine multiple decision trees.
+
+A support vector machine finds the best hyperplane to classify data.
+
+Outliers can significantly affect data analysis results.
+
+Text mining is essential for natural language processing.
+
+Tokenization splits text into individual words or phrases.
+
+Stopwords are common words removed in text processing.
+
+TF-IDF weighs the importance of a word in a document.
+
+Cosine similarity measures the angle between two vectors.
+
+Deep learning uses neural networks with many layers.
+
+A neural network learns patterns from input data.
+
+ReLU is a popular activation function.
+
+Backpropagation updates the weights in a neural network.
+
+A convolutional neural network is used for image data.
+
+Recurrent neural networks handle sequential data.
+
+Time series analysis is used to forecast future data points.
+
+Big data technologies process large volumes of data.
+
+Hadoop is a framework for distributed storage and processing.
+
+Spark performs fast, in-memory data processing.
+
+Cloud platforms host scalable data pipelines.
+
+SQL is used to query relational databases.
+
+NoSQL databases are used for unstructured data.
+
+Data ethics ensure responsible use of data.
+
+Bias in data can lead to unfair model outcomes.
+
+A/B testing is used to compare versions of a product.
+
+Data governance includes policies for data usage.
+
+Data lineage tracks the flow of data through systems.
+
+Data lakes store raw, unstructured data.
+
+Dashboards are used to present real-time insights.
+
+Data science projects follow the CRISP-DM methodology.

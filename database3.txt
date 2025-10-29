@@ -1,0 +1,99 @@
+Software engineering applies engineering principles to software development.
+
+The SDLC outlines the phases of software development.
+
+Agile promotes iterative and incremental development.
+
+Scrum is a popular Agile framework.
+
+Requirements gathering is the first step in SDLC.
+
+Functional requirements describe what the system should do.
+
+Non-functional requirements describe how the system should perform.
+
+A use case diagram represents system interactions.
+
+UML is used for visual modeling in software engineering.
+
+A class diagram shows the structure of a system.
+
+Object-oriented programming organizes code into objects.
+
+Encapsulation hides internal implementation details.
+
+Inheritance allows a class to inherit properties of another class.
+
+Polymorphism enables objects to behave differently in different contexts.
+
+A software architecture defines the structure of a system.
+
+The MVC pattern separates concerns in web applications.
+
+Code reviews improve code quality and maintainability.
+
+Version control systems track changes to source code.
+
+Git is a distributed version control system.
+
+GitHub is a platform for hosting and managing repositories.
+
+Continuous integration automates code testing and merging.
+
+Continuous delivery ensures software can be released at any time.
+
+Unit testing checks individual components of code.
+
+Integration testing verifies module interactions.
+
+System testing validates the complete system.
+
+Regression testing ensures new changes don’t break existing functionality.
+
+Test automation speeds up the testing process.
+
+Software maintenance includes bug fixes and performance improvements.
+
+Refactoring improves code without changing functionality.
+
+Technical debt is the cost of poor code quality.
+
+Documentation supports better understanding and collaboration.
+
+APIs allow software systems to communicate.
+
+RESTful APIs follow stateless architectural principles.
+
+Software reliability measures the likelihood of failure-free operation.
+
+Scalability ensures software performs well with increasing load.
+
+Load testing checks performance under stress.
+
+Secure coding practices protect against vulnerabilities.
+
+SQL injection is a common web application vulnerability.
+
+DevOps bridges development and operations for faster delivery.
+
+Containerization allows consistent software environments.
+
+Docker is widely used for containerizing applications.
+
+Kubernetes manages containerized workloads.
+
+Cloud computing offers scalable infrastructure for applications.
+
+Microservices architecture breaks applications into smaller services.
+
+Monolithic architecture keeps all modules in a single codebase.
+
+Software design patterns offer reusable solutions to common problems.
+
+The Singleton pattern ensures only one instance of a class.
+
+The Observer pattern defines a one-to-many dependency.
+
+Code smells indicate deeper problems in the codebase.
+
+Peer programming involves two developers working together at one workstation.
